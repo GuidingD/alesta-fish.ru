@@ -12,7 +12,6 @@ height="100%">
   <TBODY>
   <TR>
     <TD><!-- HEADER -->
-        <!-- Just Exploring for git -->
       <TABLE style="MARGIN-BOTTOM: 50px" border=0 cellSpacing=0 cellPadding=0
       width="100%">
         <TBODY>
