@@ -3,10 +3,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=Windows-1251" />
 
 <title>Услуги по дизайну аквариумов. Москва.</title>
-<LINK rel=stylesheet href="/alesta-fish/images/styles.css">
+<LINK rel=stylesheet href="/images/styles.css">
 <BODY>
 <div id="panel"></div>
-<DIV style="BACKGROUND: url(/alesta-fish/images/aquarium.gif) no-repeat 95% 80%">
+<DIV style="BACKGROUND: url(/images/aquarium.gif) no-repeat 95% 80%">
 <TABLE id=maintable border=0 cellSpacing=0 cellPadding=0 width=899 align=center 
 height="100%">
   <TBODY>
@@ -23,7 +23,7 @@ height="100%">
                 <TD vAlign=top width="30%"><A
                   href="#"><IMG border=0
                   alt="Alesta-fish — водный мир без хлопот!"
-                  src="/alesta-fish/images/logo.jpg"
+                  src="/images/logo.jpg"
                   width=224 height=166></A>
                   <P>&nbsp;</P></TD>
                 </TR>
@@ -40,20 +40,20 @@ height="100%">
           <TD style="PADDING-RIGHT: 20px; PADDING-TOP: 37px" vAlign=top 
           align=middle>
             <DIV 
-            style="BACKGROUND-IMAGE: url(/alesta-fish/images/fotos.gif); WIDTH: 193px; HEIGHT: 410px">
+            style="BACKGROUND-IMAGE: url(/images/fotos.gif); WIDTH: 193px; HEIGHT: 410px">
             <DIV 
             style="TEXT-ALIGN: center; FONT-FAMILY: Arial; COLOR: #7f91ab; FONT-SIZE: 12px; PADDING-TOP: 20px">Примеры 
             наших работ<BR><A href="#"><IMG 
             border=0 alt="Пример дизайна морского аквариума" vspace=12 
-            src="/alesta-fish/images/pic1.jpg" 
+            src="/images/pic1.jpg" 
             width=168 height=90></A> <A 
             href="#"><IMG border=0 
             alt="Пример дизайна аквариума" vspace=0 
-            src="/alesta-fish/images/pic2.jpg" 
+            src="/images/pic2.jpg" 
             width=168 height=99></A> <A 
             href="#"><IMG border=0 
             alt="Пример дизайна пресноводного аквариума" vspace=12 
-            src="/alesta-fish/images/pic3.jpg" 
+            src="/images/pic3.jpg" 
             width=168 height=97></A><BR><A class=fotos 
             href="#">Посмотреть еще 
             работы</A> </DIV></DIV></TD>
