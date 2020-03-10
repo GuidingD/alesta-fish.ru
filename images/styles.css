@@ -1,0 +1,166 @@
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/bg.gif) #4f6486 repeat-x; COLOR: #c9dffe; PADDING-TOP: 0px
+}
+body {behavior: url("/csshover3.htc");}
+
+B {
+	COLOR: #6f99dd; FONT-WEIGHT: normal
+}
+P {
+	TEXT-ALIGN: justify; MARGIN: 10px 10px 10px 12px; FONT-FAMILY: Arial; FONT-SIZE: 14px
+}
+P#need A.likep {
+	COLOR: #615853
+}
+P A {
+	COLOR: #c9dffe; TEXT-DECORATION: underline
+}
+A.orange {
+	COLOR: #fac152
+}
+A.b {
+	COLOR: #6f99dd
+}
+P A:hover {
+	COLOR: #f1b055; TEXT-DECORATION: none
+}
+H1 {
+	TEXT-ALIGN: right; MARGIN: 10px 10px 0px 12px; FONT-FAMILY: Arial; COLOR: #6f99dd; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+H2.he1 {
+	TEXT-ALIGN: right; MARGIN: 10px 10px 0px; FONT-FAMILY: Arial; COLOR: #fac152; FONT-SIZE: 16px; FONT-WEIGHT: normal
+}
+H2 {
+	TEXT-ALIGN: right; MARGIN: 10px 10px 0px; FONT-FAMILY: Arial; COLOR: #615853; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+UL H2 A {
+	TEXT-ALIGN: right; FONT-FAMILY: Arial; COLOR: #615853; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: underline
+}
+H3 {
+	TEXT-ALIGN: right; MARGIN: 10px 10px 0px; FONT-FAMILY: Arial; COLOR: #615853; FONT-SIZE: 13px; FONT-WEIGHT: bold
+}
+#rlist {
+	MARGIN: 0px 5px 0px 20px
+}
+#rlist LI {
+	TEXT-ALIGN: left; LINE-HEIGHT: 12px; FONT-FAMILY: Arial; COLOR: #615853; MARGIN-LEFT: 0px; FONT-SIZE: 10px; LIST-STYLE-IMAGE: url(pic/rblock/marker.gif)
+}
+LI A {
+	COLOR: #a9bedc; TEXT-DECORATION: none
+}
+LI A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+H1 A {
+	COLOR: #043fb6; TEXT-DECORATION: underline
+}
+H1 A:hover {
+	COLOR: #9a3c29; TEXT-DECORATION: none
+}
+H1.orange {
+	TEXT-ALIGN: left; COLOR: #e8950f
+}
+UL LI {
+	TEXT-ALIGN: justify; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; COLOR: #c9dffe; FONT-SIZE: 11px
+}
+OL LI {
+	TEXT-ALIGN: justify; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; COLOR: #c9dffe; FONT-SIZE: 11px
+}
+#counters {
+	TEXT-ALIGN: center; MARGIN-TOP: 10px; HEIGHT: 33px; VERTICAL-ALIGN: middle
+}
+DIV.menu {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 0px; MARGIN: 2px 0px 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: "Arial Narrow"; HEIGHT: 100px; FONT-SIZE: 14px; PADDING-TOP: 0px;}
+DIV.menu STRONG {
+	FONT-FAMILY: Arial; COLOR: #fac152; FONT-WEIGHT: normal
+}
+DIV.menu A {
+	COLOR: #a9bedc; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+DIV.menu P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV.menu A:hover {
+	COLOR: #f1b055; TEXT-DECORATION: underline
+}
+DIV.menu LI STRONG {
+	FONT-FAMILY: Arial; COLOR: #e7efbb; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#header1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; PADDING-TOP: 3px
+}
+#header1 H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-FAMILY: Arial; LETTER-SPACING: 1px; COLOR: #ddd88e; FONT-SIZE: 12px; FONT-WEIGHT: 100; PADDING-TOP: 0px
+}
+#header1 A {
+	COLOR: #e7efbb; TEXT-DECORATION: none
+}
+#header1 A:hover {
+	COLOR: #edcc06; TEXT-DECORATION: none
+}
+#iline {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Arial; FLOAT: left; LETTER-SPACING: 1px; COLOR: #eecf08; FONT-SIZE: 17px; PADDING-TOP: 7px
+}
+#iline STRONG {
+	FONT-WEIGHT: 100
+}
+#iline2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 20px; FLOAT: right; VERTICAL-ALIGN: middle; PADDING-TOP: 9px
+}
+#iline A {
+	COLOR: #eecf08; TEXT-DECORATION: none
+}
+#iline A:hover {
+	COLOR: #ffe22a; TEXT-DECORATION: none
+}
+#niz {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT-FAMILY: Arial; LETTER-SPACING: 1px; COLOR: #94aacf; FONT-SIZE: 10px; PADDING-TOP: 3px
+}
+#niz A {
+	COLOR: #94aacf; TEXT-DECORATION: underline
+}
+#niz A:hover {
+	TEXT-DECORATION: none
+}
+.simple_T STRONG {
+	FONT-WEIGHT: 100
+}
+#usl H1 {
+	TEXT-ALIGN: left; FONT-SIZE: 12px
+}
+#usl A {
+	COLOR: #006600
+}
+#link A {
+	COLOR: #006600
+}
+A.img_prev IMG {
+	BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid
+}
+A.img_prev:hover IMG {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+A.fotos {
+	COLOR: #7f91ab; TEXT-DECORATION: none
+}
+A.fotos:hover {
+	TEXT-DECORATION: underline
+}
+
+.mm{ margin: 0px; padding:0px;list-style:none; }
+.mm li{ position:relative; margin: 0px; padding:0px;list-style:none; }
+.mm .mmm { display: none; position: absolute; list-style:none; border-bottom: 1px solid #C9DFFE; padding: 0; margin: 0;BACKGROUND: url(../images/bg.gif) #4f6486 repeat-x;}
+.mm .mmm li { list-style:none; display: block; border: 1px solid #C9DFFE; border-bottom: none; width: 130px; padding: 0px; margin: 0px; line-height: 20px; padding-left: 10px; padding-right: 10px; }
+
+.mm li:hover .mmm { display: block; }
+div.context {
+float: right;
+border:#FFF 1px solid;
+background-color:#334766;
+font-size:11px;
+color:#94aacf;
+font-family:Verdana;
+}
+div.context a { color:#94aacf; text-decoration:none}
+div.context a.cont { color:#6f99dd; text-decoration:underline}
+div.context span { padding:10px; display:block}
